@@ -1,7 +1,7 @@
-# 👋 Olá! / Hi there!  
+# 👋 Oi, pessoal! / Hi there!  
 
-## 🇧🇷 Sobre mim  
-- 👋 Olá, eu sou **@GUSTAVODHS**.  
+## pt-br Sobre mim  
+- 👋 Oi! Tudo bem? Eu sou **@GUSTAVODHS**.  
 - 👀 Tenho interesse em **Engenharia de Dados**, **Cloud Computing (AWS & Azure)**, **Arquiteturas de Dados (Medallion, Data Lakehouse)** e **projetos com Databricks**.  
 - 🌱 Atualmente estou aprendendo e me especializando em **AWS Data Engineering**, **CI/CD para pipelines de dados**, e **projetos práticos com Databricks**.  
 - 💞️ Procuro colaborar em projetos **open-source**, **boas práticas de arquitetura de dados**, **pipelines escaláveis** e **otimização de custos na nuvem**.  
@@ -9,8 +9,8 @@
 
 ---
 
-## 🇺🇸 About me  
-- 👋 Hi, I’m **@GUSTAVODHS**.  
+## en About me  
+- 👋 Hi! How are you? I’m **@GUSTAVODHS**.  
 - 👀 I’m interested in **Data Engineering**, **Cloud Computing (AWS & Azure)**, **Data Architectures (Medallion, Data Lakehouse)**, and **Databricks projects**.  
 - 🌱 I’m currently learning and specializing in **AWS Data Engineering**, **CI/CD for data pipelines**, and **practical Databricks projects**.  
 - 💞️ I’m looking to collaborate on **open-source projects**, **data architecture best practices**, **scalable pipelines**, and **cloud cost optimization**.  
